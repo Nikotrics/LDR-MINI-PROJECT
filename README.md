@@ -24,4 +24,7 @@ which prevents current from flowing through the Yellow LED, causing it to turn o
 ## Circuit / Images
 - Breadboard/Circuit images are in the folder.
 
-## Folder Structure (Optional)
+## Folder Structure
+1. Circuit in Proteus
+2. Circuit in Software
+3. Circuit in Hardware
