@@ -5,11 +5,12 @@ This project demonstrates a simple LDR circuit on a breadboard.
 When the Green LED light falls on the LDR, it stops current flow to the Yellow LED, turning it off.
 
 ## Components
-1. Resistors
-2. Light Dependent Resistor (LDR)
-3. Transistor BC547
-4. DC Voltage Source 6V
-5. Yellow LED
+1. Breadboard
+2. Resistors
+3. Light Dependent Resistor (LDR)
+4. Transistor BC547
+5. DC Voltage Source 6V
+6. Yellow LED
 
 ## How It Works
 When light from the Green LED falls on the LDR, its resistance decreases, 
