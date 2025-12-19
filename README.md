@@ -1,18 +1,27 @@
 # LDR-MINI-PROJECT
-In this project I have made a LDR Circuit on Breadboard
 
-Explaination:
-When Light Falls from Green LED on the LDR it will Stop the Current flow of Yellow LED and hence Yellow LED will Stop Glowing.
+## Description
+This project demonstrates a simple LDR circuit on a breadboard. 
+When the Green LED light falls on the LDR, it stops current flow to the Yellow LED, turning it off.
 
-Components: 
+## Components
 1. Resistors
-2. Light Dependant Resistor (LDR)
+2. Light Dependent Resistor (LDR)
 3. Transistor BC547
 4. DC Voltage Source 6V
 5. Yellow LED
 
-Applications:
+## How It Works
+When light from the Green LED falls on the LDR, its resistance decreases, 
+which prevents current from flowing through the Yellow LED, causing it to turn off.
+
+## Applications
 1. Smart Street Lights
-2. Laser Security
-3. Brightness Control In Devices
-4. Garden Lights 
+2. Laser Security Systems
+3. Brightness Control in Devices
+4. Garden Lights
+
+## Circuit / Images
+- Breadboard/Circuit images are in the folder.
+
+## Folder Structure (Optional)
