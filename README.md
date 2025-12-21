@@ -1,4 +1,6 @@
 # LDR-MINI-PROJECT
+![Views](https://komarev.com/ghpvc/?username=Nikotrics&repo=LDR-MINI-PROJECT)
+
 
 ## Description
 This project demonstrates a simple LDR circuit on a breadboard. 
