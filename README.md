@@ -1,5 +1,10 @@
 # LDR-MINI-PROJECT
 ![Views](https://komarev.com/ghpvc/?username=Nikotrics&repo=LDR-MINI-PROJECT)
+![Electronics](https://img.shields.io/badge/Electronics-555555)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
+![Mini Project](https://img.shields.io/badge/Level-Mini_Project-green)
+
 
 
 ## Description
