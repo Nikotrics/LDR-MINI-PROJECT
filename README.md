@@ -39,6 +39,5 @@ which prevents current from flowing through the Yellow LED, causing it to turn o
 All images & circuit in this repository are protected.  
 No reuse, redistribution, or modification without permission
 
-If you like this project, give it a ⭐
-Follow for more electrical & electronics projects!
+If you like this project, give it a ⭐. Follow for more electrical & electronics projects!
 
