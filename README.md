@@ -36,5 +36,5 @@ which prevents current from flowing through the Yellow LED, causing it to turn o
 3. Circuit in Hardware
 
 ## © 2025 Humeez Qureshi  
-All images in this repository are protected.  
+All images & circuit in this repository are protected.  
 No reuse, redistribution, or modification without permission.
