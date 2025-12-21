@@ -1,13 +1,9 @@
 # LDR-MINI-PROJECT
-![Views](https://komarev.com/ghpvc/?username=Nikotrics&repo=LDR-MINI-PROJECT)
-![Electronics](https://img.shields.io/badge/Electronics-555555)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
+![Electronics](https://img.shields.io/badge/Electronics-555555)
 ![Mini Project](https://img.shields.io/badge/Level-Mini_Project-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-
-
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Description
 This project demonstrates a simple LDR circuit on a breadboard. 
