@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
 ![Mini Project](https://img.shields.io/badge/Level-Mini_Project-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 
 
